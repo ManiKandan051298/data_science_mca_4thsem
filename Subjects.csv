@@ -1,0 +1,23 @@
+,Subject Name,Mark,Semester,Category,Credits
+1,Mathematical Foundations of Computer science,51,1,Core,4
+2,Digital Logic and Computer Organization,78,1,Core,3
+3,Problem Solving using Python,82,1,Core,3
+4,Database Management Systems,86,1,Core,3
+5,Research Methodology and IPR,78,1,RMC,2
+6,Programming in Python Laboratory,91,1,Lab,2
+7,Database Management Systems Laboratory,90,1,Lab,2
+8,C Programming and Data Structures,85,2,Core,3
+9,Operating Systems,82,2,Core,4
+10,Software Engineering,89,2,Core,3
+11,Advances in Databases,91,2,Core,3
+12,Web Programming,85,2,Core,3
+13,C Programming and Data Structures Laboratory,94,2,Lab,2
+14,Web Programming Laboratory,90,2,Lab,2
+15,Computer Communication and Networks,84,3,Core,4
+16,Java Programming,85,3,Core,3
+17,Advanced Data Structures and Algorithm Design,88,3,Core,3
+18,Introduction to Machine Learning,81,3,Elective,3
+19,Big Data with R,80,3,Elective,3
+20,Java Programming andNetworks Laboratory,95,3,Lab,2
+21,Advanced Data Structures and Algorithms Laboratory,92,3,Lab,2
+22,Socially Relevant Project,90,3,Lab,1
